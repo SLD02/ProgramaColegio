@@ -1,0 +1,2 @@
+4to|luis|gomez|54|76|90|100
+6to|Pedro|Perez|100|80|70|75
